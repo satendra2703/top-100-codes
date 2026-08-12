@@ -29,5 +29,3 @@ for i in range(0, rows):
         else:
             print(" ", end="")
     print()
-
-# This code is contributed by Shubhanshu Arya (Prepinsta Placement Cell Student) 
